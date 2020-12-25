@@ -6,5 +6,5 @@ the longer it takes you to get to the word,the more you put your little man in d
 
 
 We're going to have some really cool ASCII art like a hangman logo 
-and it's going to ask us to guess or a letter.
+and it's going to ask us to guess a letter.
 
